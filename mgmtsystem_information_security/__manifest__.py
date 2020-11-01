@@ -40,7 +40,7 @@ required to deploy and manage your Information Security Management System
 
     'depends': [
         'mgmtsystem_security_event',
-        'information_security_manual',
+        'mgmtsystem_info_security_manual',
         'mgmtsystem_audit',
         'mgmtsystem_review',
     ],

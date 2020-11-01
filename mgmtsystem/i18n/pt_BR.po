@@ -138,7 +138,7 @@ msgid "Information Security"
 msgstr "Segurança da Informação"
 
 #. module: mgmtsystem
-#: model:ir.model.fields,field_description:mgmtsystem.field_res_config_settings__module_information_security_manual
+#: model:ir.model.fields,field_description:mgmtsystem.field_res_config_settings__module_mgmtsystem_info_security_manual
 msgid "Information Security Manual Template"
 msgstr "Modelo de manual de Segurança da Informação"
 
@@ -402,10 +402,10 @@ msgstr ""
 "- Isso instala o mgmtsystem_environment_manual módulo."
 
 #. module: mgmtsystem
-#: model:ir.model.fields,help:mgmtsystem.field_res_config_settings__module_information_security_manual
+#: model:ir.model.fields,help:mgmtsystem.field_res_config_settings__module_mgmtsystem_info_security_manual
 msgid ""
 "Provide an information security manual.\n"
-"- This installs the module information_security_manual."
+"- This installs the module mgmtsystem_info_security_manual."
 msgstr ""
 "Fornecer um manual de segurança da informação.\n"
 "- Isso instala o manual de segurança da informação módulo."

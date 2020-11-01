@@ -60,7 +60,7 @@ class MgmtsystemClaim(models.Model):
         base_url = (
             self.env["ir.config_parameter"]
             .sudo()
-            .get_param("web.base.url", default="http://localhost:8069")
+            .sudo().get_param("web.base.url", default="http://localhost:8069")
         )
         url = ("{}/web#db={}&id={}&model={}").format(
             base_url, self.env.cr.dbname, self.id, self._name

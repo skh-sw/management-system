@@ -133,7 +133,7 @@ msgid "Information Security"
 msgstr "Información de Seguridad"
 
 #. module: mgmtsystem
-#: model:ir.model.fields,field_description:mgmtsystem.field_res_config_settings__module_information_security_manual
+#: model:ir.model.fields,field_description:mgmtsystem.field_res_config_settings__module_mgmtsystem_info_security_manual
 msgid "Information Security Manual Template"
 msgstr "Plantilla del Manual de Información de Seguridad"
 
@@ -409,13 +409,13 @@ msgstr ""
 "- Esto instala el módulo mgmtsystem_environment_manual."
 
 #. module: mgmtsystem
-#: model:ir.model.fields,help:mgmtsystem.field_res_config_settings__module_information_security_manual
+#: model:ir.model.fields,help:mgmtsystem.field_res_config_settings__module_mgmtsystem_info_security_manual
 msgid ""
 "Provide an information security manual.\n"
-"- This installs the module information_security_manual."
+"- This installs the module mgmtsystem_info_security_manual."
 msgstr ""
 "Proporcionar un manual de seguridad de la información.\n"
-"- Esto instala el módulo information_security_manual."
+"- Esto instala el módulo mgmtsystem_info_security_manual."
 
 #. module: mgmtsystem
 #: model:ir.model.fields,help:mgmtsystem.field_res_config_settings__module_mgmtsystem_audit
